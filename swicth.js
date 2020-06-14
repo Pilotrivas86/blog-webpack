@@ -1,1 +1,1 @@
-alert("cual es tu signo");
+console.log("hola mundo");
