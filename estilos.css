@@ -16,3 +16,6 @@ body {
 #container {
   font-size: 26px;
 }
+#cabecera {
+  background-color: grey;
+}
