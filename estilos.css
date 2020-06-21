@@ -1,15 +1,10 @@
 body {
-  color: white;
+  color: pink;
 
   font-family: Arial, Helvetica, sans-serif;
-<<<<<<< HEAD
   margin: auto;
   padding: 0%;
   font-weight: bold;
-=======
-  margin: 0;
-  padding: 0;
->>>>>>> cabecera
 }
 #container {
   box-shadow: -19px 14px 5px 1px rgba(0, 0, 0, 0.75);
@@ -25,4 +20,6 @@ body {
 #cabecera {
   background-color: grey;
   text-align: left;
+  margin: 0;
+  padding: 0;
 }
